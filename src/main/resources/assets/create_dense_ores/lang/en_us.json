@@ -1,0 +1,5 @@
+{
+  "itemGroup.create_dense_ores": "Example Mod Tab",
+  "block.create_dense_ores.example_block": "Example Block",
+  "item.create_dense_ores.example_item": "Example Item"
+}
