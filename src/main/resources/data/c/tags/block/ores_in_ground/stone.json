@@ -1,0 +1,9 @@
+{
+  "values": [
+    "create_dense_ores:dense_zinc_ore",
+    "create_dense_ores:dense_thorium_ore",
+    "create_dense_ores:dense_lead_ore",
+    "create_dense_ores:dense_nickel_ore",
+    "create_dense_ores:dense_lithium_ore"
+  ]
+}
