@@ -1,4 +1,10 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create_new_age"
+    }
+  ],
   "feature": "create_dense_ores:dense_thorium_ores",
   "placement": [
     {

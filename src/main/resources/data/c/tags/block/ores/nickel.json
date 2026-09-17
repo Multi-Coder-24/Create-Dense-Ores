@@ -1,6 +1,12 @@
 {
   "values": [
-    "create_dense_ores:dense_nickel_ore",
-    "create_dense_ores:deepslate_dense_nickel_ore"
+    {
+      "id":"create_dense_ores:dense_nickel_ore",
+      "required": false
+    },
+    {
+      "id":"create_dense_ores:deepslate_dense_nickel_ore",
+      "required": false
+    }
   ]
 }
